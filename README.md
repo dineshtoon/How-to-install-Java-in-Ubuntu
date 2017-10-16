@@ -1,2 +1,2 @@
 # How-to-install-Java-in-Ubuntu
-Step by step by guide to install Java in Uuntu
+Step by step by guide to install Java in Ubuntu
